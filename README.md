@@ -1,5 +1,5 @@
 
-### <center>**Data Analysis of Premier League**</center>
+### <p align="center">**Data Analysis of Premier League**</p>
 
 ##### This is a jupyter notebook which analyzes the data and gives meaningful insights from the premier league table since it's inception on 1992, upto 2018. The new season is not added as the current league is going on (2018/2019).  The data is scraped from workfootball.net. Only the premier league table is scrapped and the data is analyzed. Minimal libraries are used to analyze the data.
 

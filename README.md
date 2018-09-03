@@ -599,6 +599,7 @@ plt.scatter(x=total_wins_dict.values(), y=total_wins_dict.keys())
 
 ##### Notebook Created by: [Sulabh Shrestha](https://github.com/codexponent/)
 ###### - Connect with me on [Linkedin](https://www.linkedin.com/in/sulabhshrestha/) & [Twitter](http://www.twitter.com/codexponent)
+----------
 
 ## Contribute
 ----------

@@ -1,5 +1,6 @@
 
 ### <p align="center">**Data Analysis of Premier League**</p>
+----------
 
 ##### This is a jupyter notebook which analyzes the data and gives meaningful insights from the premier league table since it's inception on 1992, upto 2018. The new season is not added as the current league is going on (2018/2019).  The data is scraped from workfootball.net. Only the premier league table is scrapped and the data is analyzed. Minimal libraries are used to analyze the data.
 
@@ -598,3 +599,21 @@ plt.scatter(x=total_wins_dict.values(), y=total_wins_dict.keys())
 
 ##### Notebook Created by: [Sulabh Shrestha](https://github.com/codexponent/)
 ###### - Connect with me on [Linkedin](https://www.linkedin.com/in/sulabhshrestha/) & [Twitter](http://www.twitter.com/codexponent)
+
+## Contribute
+----------
+
+- Issue Tracker: https://github.com/codexponent/premierleague-analysis/issues
+- Source Code: https://github.com/codexponent/premierleague-analysis
+- Contributors: https://github.com/codexponent/premierleague-analysis/contributors.txt
+
+## Support
+-------
+
+If you are having issues, please let us know.
+I have a mailing list located at: tsulabh4@gmail.com
+
+## Copyright and License
+-------
+
+Copyright 2018 Codexponent. Code released under the [MIT]license.
